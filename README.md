@@ -7,10 +7,16 @@ This plugin makes it easier to display a gallery of images. You can structure an
 <b>1.- Add the following markup:<b>
 ```html
 <div class="container">
-	<div class="image col-md-4"><img src="urlimage1" title="Title 1"/><div class="galleryTitle">Title 1</div></div>
+	<div class="image col-md-4">
+		<img src="urlimage1" title="Title 1"/>
+		<div class="galleryTitle">Title 1</div>
+	</div>
 	
 	...
 	
-	<div class="image col-md-4"><img src="urlimage9" title="Title 9"/><div class="galleryTitle">Title 9</div></div>
+	<div class="image col-md-4">
+		<img src="urlimage9" title="Title 9"/>
+		<div class="galleryTitle">Title 9</div>
+	</div>
 </div>
 ```
