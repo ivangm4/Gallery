@@ -32,6 +32,6 @@ This plugin makes it easier to display a gallery of 9 images. You can structure 
 
 <b>3.- Don't forget to add the jQuery library:<b>
 ```html
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="js/jquery-1.12.0.min.js"><\/script>')</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery-1.12.0.min.js"><\/script>')</script>
 ```
