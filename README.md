@@ -21,3 +21,11 @@ This plugin makes it easier to display a gallery of 9 images. You can structure 
 	</div>
 </div>
 ```
+
+<b>2.- Link stylesheets::<b>
+```html
+<!-- Gallery. -->
+<link rel="stylesheet" href="css/gallery.css">
+<!-- Bootstrap. -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+```
