@@ -2,7 +2,7 @@
 
 See the demo: http://ivangm4.github.io/
 
-This plugin makes it easier to display a gallery of images. You can structure and increase the images quickly and easily following the next steps:
+This plugin makes it easier to display a gallery of 9 images. You can structure and increase the images quickly and easily following the next steps:
 
 <b>1.- Add the following markup:<b>
 ```html
