@@ -6,6 +6,7 @@ This plugin makes it easier to display a gallery of 9 images. You can structure 
 
 <b>1.- Add the following markup:<b>
 ```html
+<!-- Remember: You have to put the same title two times. -->
 <div class="container">
 	<div class="image col-md-4">
 		<img src="urlimage1" title="Title 1"/>
