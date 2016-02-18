@@ -22,10 +22,16 @@ This plugin makes it easier to display a gallery of 9 images. You can structure 
 </div>
 ```
 
-<b>2.- Link stylesheets::<b>
+<b>2.- Link stylesheets:<b>
 ```html
 <!-- Gallery. -->
 <link rel="stylesheet" href="css/gallery.css">
 <!-- Bootstrap. -->
 <link rel="stylesheet" href="css/bootstrap.min.css">
+```
+
+<b>3.- Don't forget to add the jQuery library:<b>
+```html
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery-1.12.0.min.js"><\/script>')</script>
 ```
