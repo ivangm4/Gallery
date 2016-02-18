@@ -14,7 +14,7 @@ This plugin makes it easier to display a gallery of images. You can structure an
 	<div class="image col-md-4"><img src="img/5.jpg" title="Title 5"/><div class="galleryTitle">Title 5</div></div>
 	<div class="image col-md-4"><img src="img/6.jpg" title="Title 6"/><div class="galleryTitle">Title 6</div></div>
 	<div class="image col-md-4"><img src="img/7.jpg" title="Title 7"/><div class="galleryTitle">Title 7</div></div>
-	<div class="image col-md-4"><img src="img/.jpg" title="Title 8"/><div class="galleryTitle">Title 8</div></div>
+	<div class="image col-md-4"><img src="img/8.jpg" title="Title 8"/><div class="galleryTitle">Title 8</div></div>
 	<div class="image col-md-4"><img src="img/9.jpg" title="Title 9"/><div class="galleryTitle">Title 9</div></div>
 </div>
 ```
