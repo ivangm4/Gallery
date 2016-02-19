@@ -36,7 +36,7 @@ This plugin makes it easier to display a gallery of 9 images. You can structure 
 <script>window.jQuery || document.write('<script src="js/jquery-1.12.0.min.js"><\/script>')</script>
 ```
 
-<b>4.- Link the jQuery file:<b>
+<b>4.- Link the JavaScript file:<b>
 ```html
 <script type="text/javascript" src="js/gallery.js"></script>
 ```
