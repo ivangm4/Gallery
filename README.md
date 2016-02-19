@@ -41,4 +41,4 @@ This plugin makes it easier to display a gallery of 9 images. You can structure 
 <script type="text/javascript" src="js/gallery.js"></script>
 ```
 
-Finally, don't forget to put the images that you can find in the folder img in your pictures folder, and change the url in gallery javascript file.
+Finally, don't forget to put the images that you can find in the folder img in your pictures folder, and change the url in gallery.js file.
